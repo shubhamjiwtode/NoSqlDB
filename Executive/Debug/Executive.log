@@ -1,0 +1,9 @@
+﻿  Executive.cpp
+  StringUtilities.cpp
+  Query.cpp
+  Persist.cpp
+  Edit.cpp
+  DbCore.cpp
+  DateTime.cpp
+  Generating Code...
+  Executive.vcxproj -> F:\NoSqlDb2\NoSqlDb2\Debug\Executive.lib

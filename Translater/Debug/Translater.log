@@ -1,0 +1,4 @@
+﻿  Translater.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+Utilities.lib(Utilities.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translater.vcxproj -> D:\Project4\Debug\Translater.dll
